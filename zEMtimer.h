@@ -9,6 +9,7 @@
 #define ALARM           4
 #define BUZZ            5
 
+
 //#define PIR_MAX         2
 //#define DUALPIR_WINDOW_UPPERONE 0
 //#define DUALPIR_WINDOW_LOWERONE 1
