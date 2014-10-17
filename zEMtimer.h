@@ -3,7 +3,11 @@
 
 //test git branch
 //one more commit, then start test branch and merge
+<<<<<<< HEAD
 //made some change in master
+=======
+//made some change in branch: testMerge
+>>>>>>> testMerge
 
 #define LED_RED         0
 #define LED_GREEN       1
