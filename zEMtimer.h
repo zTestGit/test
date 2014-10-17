@@ -9,6 +9,8 @@
 //made some change in branch: testMerge
 >>>>>>> testMerge
 
+//some changes to test rebasing
+
 #define LED_RED         0
 #define LED_GREEN       1
 #define LED_ORANGE      2
