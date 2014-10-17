@@ -2,6 +2,7 @@
 
 //test git in c
 //made again some change in testMerge, in c file
+//more changes in c, to test rebasing
 
 #include "zEMmain.h"
 
