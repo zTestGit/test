@@ -1,6 +1,7 @@
 #define zEMtimer_C
 
 //test git in c
+//made again some change in testMerge, in c file
 
 #include "zEMmain.h"
 
